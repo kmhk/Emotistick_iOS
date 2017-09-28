@@ -1,0 +1,21 @@
+//
+// Prefix header for all source files of the 'StickText' target in the 'StickText' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#define SCREEN_WIDTH			[[UIScreen mainScreen] bounds].size.width
+#define SCREEN_HEIGHT			[[UIScreen mainScreen] bounds].size.height
+
+#define getNibName(nibName) UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone ? (SCREEN_HEIGHT > 480 ? [NSString stringWithFormat:@"%@%@", nibName, @"_iPhone5"] : nibName) : [NSString stringWithFormat:@"%@%@", nibName, @"_iPad"]
+
+#define GIF_PLAY_SPEED 1
