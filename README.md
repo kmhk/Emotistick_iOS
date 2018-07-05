@@ -20,13 +20,12 @@ This is emoji app for iOS 7.0 or above. The app provides several emoji icon and 
 
 # Contact Info
 
-**_name_**:		_KmHk_
-
-**_email_**:	[_kmhk.lu@aol.com_](mailto:kmhk.lu@aol.com)
-
-**_git_**:		[_kmhk_](https://github.com/kmhk)
+    **_name_**:		_KmHk_
+    **_email_**:	[_kmhk.lu@aol.com_](mailto:kmhk.lu@aol.com)
+    **_git_**:		[_kmhk_](https://github.com/kmhk)
 
 
 ## Screenshots
 
 ![](iconipod@2x.png)
+![](StickText/Resources/Default.png =100)
