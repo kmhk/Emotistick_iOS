@@ -28,4 +28,7 @@ This is emoji app for iOS 7.0 or above. The app provides several emoji icon and 
 ## Screenshots
 
 ![](iconipod@2x.png)
-<img src="StickText/Resources/Default.png" alt="alt text" width="100">
+<img src="StickText/Resources/Default.png" alt="alt text" width="300">
+![](StickText/Resources/gif%20title%20image/title_0.png)
+![](StickText/Resources/gif%20title%20image/title_1.png)
+![](StickText/Resources/gif%20title%20image/title_3.png)
