@@ -18,7 +18,7 @@ This is emoji app for iOS 7.0 or above. The app provides several emoji icon and 
     - Emoji
 
 
-# Contact Info
+## Contact Info
 
 **_name_**:		_KmHk_
 
