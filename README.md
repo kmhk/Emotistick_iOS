@@ -28,4 +28,4 @@ This is emoji app for iOS 7.0 or above. The app provides several emoji icon and 
 ## Screenshots
 
 ![](iconipod@2x.png)
-![](https://github.com/kmhk/Emotistick_iOS/tree/master/StickText/Resources =100)
+![](StickText/Resources/Default.png =100)
